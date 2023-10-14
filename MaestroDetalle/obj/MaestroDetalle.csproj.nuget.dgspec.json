@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LG\\Desktop\\ASPNET\\Compras\\MaestroDetalle\\MaestroDetalle\\MaestroDetalle.csproj": {}
+    "C:\\Users\\LG\\Desktop\\ASPNET\\maestro-detalle\\MaestroDetalle\\MaestroDetalle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LG\\Desktop\\ASPNET\\Compras\\MaestroDetalle\\MaestroDetalle\\MaestroDetalle.csproj": {
+    "C:\\Users\\LG\\Desktop\\ASPNET\\maestro-detalle\\MaestroDetalle\\MaestroDetalle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LG\\Desktop\\ASPNET\\Compras\\MaestroDetalle\\MaestroDetalle\\MaestroDetalle.csproj",
+        "projectUniqueName": "C:\\Users\\LG\\Desktop\\ASPNET\\maestro-detalle\\MaestroDetalle\\MaestroDetalle.csproj",
         "projectName": "MaestroDetalle",
-        "projectPath": "C:\\Users\\LG\\Desktop\\ASPNET\\Compras\\MaestroDetalle\\MaestroDetalle\\MaestroDetalle.csproj",
+        "projectPath": "C:\\Users\\LG\\Desktop\\ASPNET\\maestro-detalle\\MaestroDetalle\\MaestroDetalle.csproj",
         "packagesPath": "C:\\Users\\LG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LG\\Desktop\\ASPNET\\Compras\\MaestroDetalle\\MaestroDetalle\\obj\\",
+        "outputPath": "C:\\Users\\LG\\Desktop\\ASPNET\\maestro-detalle\\MaestroDetalle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LG\\AppData\\Roaming\\NuGet\\NuGet.Config",

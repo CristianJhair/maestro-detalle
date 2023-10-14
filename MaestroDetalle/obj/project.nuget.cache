@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4eHd+hp4YBNMTXaHD8c7pHbPzdZcgDnH6Z3AtoiJ1/aDjvVg0rL1n2Lt83NdVlqQ2j89HrSADjMzaD+aHsCGQ==",
+  "dgSpecHash": "ngKgH+m+EPdpxDOwGcVpNQYaPY+rQRoXGUavImglPEwB83HbrClT5esaUiHQtTzamw456iOoglIMadvGA60s1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LG\\Desktop\\ASPNET\\Compras\\MaestroDetalle\\MaestroDetalle\\MaestroDetalle.csproj",
+  "projectFilePath": "C:\\Users\\LG\\Desktop\\ASPNET\\maestro-detalle\\MaestroDetalle\\MaestroDetalle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LG\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\LG\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
